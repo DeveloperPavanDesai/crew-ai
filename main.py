@@ -4,9 +4,9 @@ def run():
     result = game_studio_crew.kickoff()
 
     print("\n")
-    print("=" * 50)
-    print("FINAL GAME DESIGN DOCUMENT")
-    print("=" * 50)
+    print("=" * 60)
+    print("AI GAME STUDIO - FINAL OUTPUT")
+    print("=" * 60)
     print(result)
 
 if __name__ == "__main__":
